@@ -2,6 +2,7 @@ import React, {Component} from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import {Form, Button, FormGroup, Input, Container} from "reactstrap";
 
+
 class GroupId extends Component {
 
     constructor(props) {
@@ -23,14 +24,16 @@ class GroupId extends Component {
 
     render() {
         return (
-            <Container>
-            <Form>
+
+            <Container className="text-center mt-5 pt-4">
+                <h2 className="p-4">Saississez le nom de votre groupe</h2>
+            <Form className="m-0 m-auto">
                 <FormGroup>
-                        <Input type="text" name="groupeid" id="groupeid" placeholder="Groupe ID" />
+                        <Input className="form-control form-control-lg col-md-6 m-0 m-auto text-center" type="text" name="groupeid" id="groupeid" placeholder="nom-du-groupe" />
                 </FormGroup>
-                <FormGroup>
-                        <Button>Créer</Button>
-                        <Button>Ouvrir</Button>
+                <FormGroup className="text-center">
+                        <Button className="m-2 px-4 btn-lg btn-info">Créer</Button>
+                        <Button className="m-2 px-4 btn-lg btn-success">Ouvrir</Button>
                 </FormGroup>
             </Form>
             </Container>

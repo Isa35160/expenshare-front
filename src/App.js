@@ -6,7 +6,9 @@ import GroupID from "./Components/GroupID";
 class App extends Component {
   render() {
     return (
+        <body className="color m-0">
       <GroupID/>
+        </body>
     );
   }
 }
