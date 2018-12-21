@@ -51,7 +51,7 @@ class Expenses extends Component {
                     <td> {expense.category.label} </td>
                     <td>  <Moment format="DD/MM/YYYY">{expense.createdAt}</Moment></td>
                     <td> <NavLink to={this.props.match.url + '/update'} className="btn btn-warning my-2 btn-sm">Modifier</NavLink>
-                        <Route path={this.props.match.url + '/update'} render={props => <ExpenseUpdate {...props} slug={this.props.slug} title={expense.title}
+                        <Route path={this.props.match.url + '/update'} render={props => <ExpenseUpdate {...props} slug={this.props.slug} newExpense={expense => this.handleNewExpense(expense)} title={expense.title}
                         amount={expense.amount} category={expense.category.id} person={expense.person.id} id={expense.id}/>}/></td>
                     <td> <button onClick={e => this.handleDelete(expense)} className="btn btn-danger my-2 btn-sm">Supprimer</button> </td>
                 </tr>

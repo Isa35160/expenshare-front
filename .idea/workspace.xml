@@ -2,21 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f0e8ef70-65f1-49ff-8995-f74e4e2c1c66" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Components/ExpenShare/DashBoard.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/ExpenShare/Expenses/ExpensForm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/ExpenShare/Expenses/ExpenseUpdate.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/ExpenShare/Expenses/Expenses.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/ExpenShare/Expenshare.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/ExpenShare/Persons/PersonForm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/ExpenShare/Persons/Persons.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/GroupID/GroupID.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Menu/Menu.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/GroupID.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/GroupID/GroupID.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/ExpenShare/Expenses/ExpenseUpdate.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/ExpenShare/Expenses/ExpenseUpdate.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/ExpenShare/Expenses/Expenses.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/ExpenShare/Expenses/Expenses.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -63,22 +51,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Components/ExpenShare/Expenses/Expenses.js">
+        <entry file="file://$PROJECT_DIR$/src/Components/ExpenShare/Expenses/ExpenseUpdate.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="43" column="29" selection-start-line="43" selection-end-line="44" />
-              <folding>
-                <element signature="e#0#39#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="540">
+              <caret line="95" column="120" selection-start-line="95" selection-start-column="120" selection-end-line="95" selection-end-column="120" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Components/ExpenShare/Persons/Persons.js">
+        <entry file="file://$PROJECT_DIR$/src/Components/ExpenShare/Expenses/ExpensForm.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="621">
-              <caret line="64" column="31" selection-start-line="64" selection-start-column="31" selection-end-line="64" selection-end-column="31" />
+            <state relative-caret-position="27">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
               </folding>
@@ -87,52 +72,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Components/ExpenShare/DashBoard.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="36" column="35" selection-start-line="36" selection-start-column="35" selection-end-line="36" selection-end-column="35" />
-              <folding>
-                <element signature="e#0#39#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Components/ExpenShare/Persons/PersonForm.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="39" column="51" selection-start-line="39" selection-start-column="51" selection-end-line="39" selection-end-column="51" />
-              <folding>
-                <element signature="e#0#39#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/App.css">
+        <entry file="file://$PROJECT_DIR$/src/Components/ExpenShare/Expenses/Expenses.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="243">
-              <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Components/ExpenShare/Expenses/ExpenseUpdate.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="603">
-              <caret line="24" column="101" selection-start-line="24" selection-start-column="101" selection-end-line="24" selection-end-column="101" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Components/ExpenShare/Expenses/ExpensForm.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="621">
-              <caret line="103" column="26" selection-start-line="103" selection-start-column="26" selection-end-line="103" selection-end-column="26" />
+              <caret line="52" column="29" selection-start-line="52" selection-start-column="29" selection-end-line="52" selection-end-column="29" />
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
               </folding>
@@ -175,14 +118,14 @@
         <option value="$PROJECT_DIR$/src/Components/ExpenShare/Expenshare.js" />
         <option value="$PROJECT_DIR$/node_modules/reactstrap/src/Button.js" />
         <option value="$PROJECT_DIR$/src/App.js" />
-        <option value="$PROJECT_DIR$/src/Components/ExpenShare/Expenses/ExpenseUpdate.js" />
-        <option value="$PROJECT_DIR$/src/Components/ExpenShare/Expenses/Expenses.js" />
         <option value="$PROJECT_DIR$/src/Components/GroupID/GroupID.js" />
         <option value="$PROJECT_DIR$/src/Components/ExpenShare/Persons/PersonForm.js" />
         <option value="$PROJECT_DIR$/src/Components/ExpenShare/Expenses/ExpensForm.js" />
         <option value="$PROJECT_DIR$/src/Components/ExpenShare/Persons/Persons.js" />
         <option value="$PROJECT_DIR$/src/App.css" />
         <option value="$PROJECT_DIR$/src/Components/ExpenShare/DashBoard.js" />
+        <option value="$PROJECT_DIR$/src/Components/ExpenShare/Expenses/ExpenseUpdate.js" />
+        <option value="$PROJECT_DIR$/src/Components/ExpenShare/Expenses/Expenses.js" />
       </list>
     </option>
   </component>
@@ -300,18 +243,18 @@
       <option name="presentableId" value="Default" />
       <updated>1544792587296</updated>
       <workItem from="1544792588547" duration="71603000" />
-      <workItem from="1545311869191" duration="13286000" />
+      <workItem from="1545311869191" duration="15748000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="84889000" />
+    <option name="totallyTimeSpent" value="87351000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12697576" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12697576" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -325,7 +268,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50052685" side_tool="true" weight="0.21850613" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49947312" visible="true" weight="0.18729097" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49947312" visible="true" weight="0.18729097" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -386,26 +329,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Components/ExpenShare/Expenshare.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="15" column="141" selection-start-line="15" selection-start-column="141" selection-end-line="15" selection-end-column="141" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Components/ExpenShare/Expenses/ExpensForm.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="621">
-          <caret line="103" column="26" selection-start-line="103" selection-start-column="26" selection-end-line="103" selection-end-column="26" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/App.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="243">
@@ -413,27 +336,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Components/ExpenShare/Expenses/ExpenseUpdate.js">
+    <entry file="file://$PROJECT_DIR$/src/Components/ExpenShare/Persons/PersonForm.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="603">
-          <caret line="24" column="101" selection-start-line="24" selection-start-column="101" selection-end-line="24" selection-end-column="101" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Components/ExpenShare/Expenses/Expenses.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="43" column="29" selection-start-line="43" selection-end-line="44" />
+        <state relative-caret-position="231">
+          <caret line="39" column="51" selection-start-line="39" selection-start-column="51" selection-end-line="39" selection-end-column="51" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Components/ExpenShare/Persons/PersonForm.js">
+    <entry file="file://$PROJECT_DIR$/src/Components/ExpenShare/DashBoard.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="39" column="51" selection-start-line="39" selection-start-column="51" selection-end-line="39" selection-end-column="51" />
+        <state relative-caret-position="270">
+          <caret line="36" column="35" selection-start-line="36" selection-start-column="35" selection-end-line="36" selection-end-column="35" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
           </folding>
@@ -450,10 +366,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Components/ExpenShare/DashBoard.js">
+    <entry file="file://$PROJECT_DIR$/src/Components/ExpenShare/Expenshare.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="36" column="35" selection-start-line="36" selection-start-column="35" selection-end-line="36" selection-end-column="35" />
+        <state relative-caret-position="405">
+          <caret line="15" column="141" selection-start-line="15" selection-start-column="141" selection-end-line="15" selection-end-column="141" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Components/ExpenShare/Expenses/ExpenseUpdate.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="95" column="120" selection-start-line="95" selection-start-column="120" selection-end-line="95" selection-end-column="120" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Components/ExpenShare/Expenses/ExpensForm.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Components/ExpenShare/Expenses/Expenses.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="52" column="29" selection-start-line="52" selection-start-column="29" selection-end-line="52" selection-end-column="29" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
           </folding>
